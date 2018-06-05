@@ -10,3 +10,4 @@ It has a list detail interface. The main screen will display a list of recorded 
 crimes or select an existing crime to view and edit its details 
 
 It is a user friendly app using enhanced TalkBack feature which is useful for people with disabilites
+It uses SQLite Databasse and file storage.
